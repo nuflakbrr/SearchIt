@@ -1,6 +1,6 @@
-# nuflakbrr-hangman.vercel.app
+# nuflakbrr-searchit.vercel.app
 
-Create React Hangman Games App.
+Create Search Engine with Google Search API and React.js
 
 ## Authors
 
